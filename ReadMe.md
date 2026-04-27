@@ -10,15 +10,15 @@
 <p>
 
 User (Browser)   <br>
-   &nbsp; &nbsp; ↓ <br>
+   &nbsp; &nbsp; &nbsp; &nbsp;↓ <br>
 Frontend (React / Streamlit) <br>
-   &nbsp; &nbsp; ↓ <br>
+   &nbsp; &nbsp;&nbsp; &nbsp; ↓ <br>
 Backend API (FastAPI / Flask) <br>
-   &nbsp; &nbsp; ↓ <br>
+   &nbsp; &nbsp;&nbsp; &nbsp; ↓ <br>
 RAG Pipeline <br>
-   &nbsp; &nbsp; ↓ <br>
+  &nbsp; &nbsp; &nbsp; &nbsp; ↓ <br>
 CSV (stored as embeddings in vector DB) <br>
-   &nbsp; &nbsp; ↓ <br>
+ &nbsp; &nbsp;  &nbsp; &nbsp; ↓ <br>
 Ollama running on your machine/server <br>
 </p>
 
