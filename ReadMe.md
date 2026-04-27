@@ -23,10 +23,9 @@ Ollama running on your machine/server <br>
 </p>
 
 <h3> <b>   Creating the Backend API    </b></h3>
-<p>
 
-    ![alt text](images/Screenshot_1.jpg )
-</p>
+![alt text](images/Screenshot_1.jpg )
+
 
 
 
