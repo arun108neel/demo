@@ -25,8 +25,11 @@ Ollama running on your machine/server <br>
 <h3> <b>   Creating the Backend API    </b></h3>
 <p>
 
-    ./images/Screenshot_1.jpg
+    ![alt text](images/Screenshot_1.jpg )
 </p>
+
+
+
 
 <h3> <b>        </b></h3>
 <p>
